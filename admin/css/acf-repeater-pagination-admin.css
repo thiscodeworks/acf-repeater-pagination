@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ 
+ .acf-field-repeater.pagination .acf-table .acf-row{
+	 display: none;
+ }
